@@ -1,0 +1,2 @@
+Assets/Vivox/Plugins/iOS/libvivoxsdk.a filter=lfs diff=lfs merge=lfs -text
+Assets/Vivox/Plugins/iOS/libVivoxNative.a filter=lfs diff=lfs merge=lfs -text
