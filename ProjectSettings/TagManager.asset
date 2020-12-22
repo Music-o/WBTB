@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Marker
+  - PlayerList
+  - Building
+  - SoundManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Road
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1388005771
+    locked: 0
+  - name: BuildingPosition
+    uniqueID: 1230773149
+    locked: 0
+  - name: TurnText
+    uniqueID: 3440774781
+    locked: 0
+  - name: Canvas
+    uniqueID: 2941095811
+    locked: 0
+  - name: CanvasBuilding
+    uniqueID: 2947788189
+    locked: 0
+  - name: TimerCanvas
+    uniqueID: 1688579693
+    locked: 0
+  - name: LogCanvas
+    uniqueID: 2834763655
+    locked: 0
